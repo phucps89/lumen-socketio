@@ -5,7 +5,7 @@
 ## Instalation
 
 ```bash
-composer require vluzrmos/lumen-socketio
+composer require phuctran/lumen-socketio
 ```
 
 Add the Services Providers, on <code>bootstrap/app.php</code>:
